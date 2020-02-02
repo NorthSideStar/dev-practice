@@ -1,0 +1,22 @@
+body {
+  background-color: darkslategrey;
+  color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#homebutton {
+  color: white;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: teal;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+}
